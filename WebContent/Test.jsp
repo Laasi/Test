@@ -7,6 +7,8 @@
 <title>hello world  OSI NAgeswar SSE</title>
 </head>
 <body>
-<%= "Hello World! WELCOME TO OSI TECHNOLOGIES Nageswar" %>	
+
+WELCOME to OSI consulting
+      
 </body>
 </html>

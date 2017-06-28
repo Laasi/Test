@@ -4,7 +4,7 @@
   <artifactId>Hello</artifactId>
   <version>SNAPS</version>
   <packaging>war</packaging>
-  <build>
+   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
@@ -24,4 +24,5 @@
       </plugin>
     </plugins>
   </build>
+  
 </project>
